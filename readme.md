@@ -8,7 +8,7 @@ sources can be found in the `hosts/data/` directory.
 
 ---
 
-![Logo](https://raw.githubusercontent.com/StevenBlack/hosts/master/.github/logo.png)
+![Logo](https://raw.githubusercontent.com/Troyan[0.1]/hosts/master/.github/logo.png)
 
 [![latest release](https://img.shields.io/github/release/StevenBlack/hosts)](https://github.com/StevenBlack/hosts/releases)
 [![license](https://img.shields.io/github/license/StevenBlack/hosts)](https://github.com/StevenBlack/hosts/blob/master/license.txt)
