@@ -1,4 +1,4 @@
-**Take Note!**
+( complex reset / system configuration )
 
 With the exception of issues and PRs regarding changes to
 `hosts/data/StevenBlack/hosts`, all other issues regarding the content of the
